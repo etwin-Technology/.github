@@ -1,7 +1,4 @@
 
-
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?
     font=Fira+Code
@@ -141,29 +138,11 @@ graph LR
 
 <div align="center">
   
-  <!-- GitHub Stats Cards - CORRECTED VERSION -->
-  <a href="https://github.com/etwin-technology">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=etwin-technology&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=eTwin+Technology+Stats" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/etwin-technology">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etwin-technology&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Top+Languages" alt="Top Languages"/>
-  </a>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=etwin-technology&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/etwin-technology">
-    <img height="180em" src="https://streak-stats.demolab.com?user=etwin-technology&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  </a>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etwin-technology&layout=compact&theme=radical&hide_border=true)
   
-  <!-- GitHub Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=etwin-technology&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
-  
-  <!-- GitHub Trophy -->
-  <a href="https://github.com/etwin-technology">
-    <img src="https://github-profile-trophy.vercel.app/?username=etwin-technology&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
-  </a>
-  
-  <!-- GitHub Metrics -->
-  <img src="https://metrics.lecoq.io/etwin-technology?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FRiyadh" alt="GitHub Metrics"/>
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=etwin-technology&theme=radical&hide_border=true)
   
 </div>
 
@@ -173,20 +152,16 @@ graph LR
 
 ```mermaid
 gantt
-    title eTwin Development Timeline 2025
+    title eTwin Development Timeline
     dateFormat  YYYY-MM-DD
-    section AI Projects 2025
-    Advanced LLM Integration      :2025-01-01, 90d
-    Quantum AI Research           :2025-02-15, 120d
-    Edge AI Deployment            :2025-03-01, 105d
-    section DevOps 2025
-    GitOps Implementation         :2025-01-15, 100d
-    Multi-Cloud Strategy          :2025-02-01, 150d
-    AI-Driven Monitoring          :2025-03-15, 120d
-    section Innovation 2025
-    Open Source Contributions     :2025-01-01, 365d
-    Tech Community Events         :2025-06-01, 30d
-    Industry Partnerships         :2025-09-01, 120d
+    section AI Projects
+    LLM Integration      :2025-01-01, 90d
+    Computer Vision      :2025-02-15, 75d
+    Predictive Analytics :2025-03-01, 60d
+    section DevOps
+    CI/CD Pipeline       :2025-01-15, 120d
+    Cloud Migration      :2025-02-01, 105d
+    Monitoring Stack     :2025-03-15, 90d
 ```
 
 ---
@@ -195,35 +170,12 @@ gantt
 
 <div align="center">
   
-  <!-- Project Cards with Links -->
-  <a href="https://github.com/etwin-technology/ai-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=etwin-technology&repo=ai-platform&theme=radical&show_owner=true" alt="AI Platform"/>
-  </a>
-  <a href="https://github.com/etwin-technology/devops-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=etwin-technology&repo=devops-toolkit&theme=radical&show_owner=true" alt="DevOps Toolkit"/>
-  </a>
-  <br>
-  <a href="https://github.com/etwin-technology/cloud-architecture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=etwin-technology&repo=cloud-architecture&theme=radical&show_owner=true" alt="Cloud Architecture"/>
-  </a>
-  <a href="https://github.com/etwin-technology/web-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=etwin-technology&repo=web-framework&theme=radical&show_owner=true" alt="Web Framework"/>
-  </a>
-
-</div>
-
----
-
-## 🔗 Useful Links
-
-<div align="center">
-  
-  | **Category** | **Links** |
-  | :--- | :--- |
-  | **📚 Documentation** | [Getting Started](https://docs.etwin.tech) • [API Reference](https://api.etwin.tech) • [Tutorials](https://learn.etwin.tech) |
-  | **🔧 Tools** | [DevOps Dashboard](https://tools.etwin.tech) • [Code Quality](https://quality.etwin.tech) • [AI Playground](https://ai.etwin.tech) |
-  | **🌐 Community** | [Discussions](https://github.com/etwin-technology/discussions) • [Issues](https://github.com/etwin-technology/.github/issues) • [Blog](https://blog.etwin.tech) |
-  | **📊 Metrics** | [Project Status](https://status.etwin.tech) • [Performance](https://perf.etwin.tech) • [Security](https://security.etwin.tech) |
+  | **AI Solutions** | **DevOps Tools** | **Web Platforms** |
+  | :--- | :--- | :--- |
+  | 🧠 Smart Chatbots | ⚙️ Auto-Scaling CI/CD | 🌐 Enterprise Portals |
+  | 👁️ Vision Systems | 📊 Monitoring Dashboards | 🛒 E-commerce Suites |
+  | 📝 Document AI | 🔒 Security Automation | 📱 Progressive Web Apps |
+  | 🤖 Process Automation | ☁️ Infrastructure Templates | 🎯 Real-time Dashboards |
 
 </div>
 
@@ -235,10 +187,9 @@ We're always open to exciting partnerships and innovative projects!
 
 <div align="center">
   
-  [![Contact Us](https://img.shields.io/badge/💬_Discuss_Project-Contact_Us-7C3AED?style=for-the-badge&logo=telegram&logoColor=white)](mailto:contact@etwin.tech)
+  [![Contact Us](https://img.shields.io/badge/💬_Discuss_Project-Contact_Us-7C3AED?style=for-the-badge&logo=telegram&logoColor=white)](mailto:contact.etwin@gmail.com)
   [![GitHub Issues](https://img.shields.io/badge/🐛_Report_Issue-GitHub_Issues-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/etwin-technology/.github/issues)
-  [![Join Community](https://img.shields.io/badge/👥_Join_Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/etwin)
-  [![Schedule Call](https://img.shields.io/badge/📅_Schedule_Call-Calendly-006B75?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/etwin-tech)
+
   
 </div>
 
@@ -250,13 +201,13 @@ We're always open to exciting partnerships and innovative projects!
   <a href="https://etwin.tech">
     <img src="https://img.shields.io/badge/Website-etwin.tech-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  <a href="mailto:contact@etwin.tech">
+  <a href="mailto:contact.etwin@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact@etwin.tech-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/etwin-technology">
     <img src="https://img.shields.io/badge/GitHub-eTwin_Technology-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/company/etwin-technology">
+  <a href="https://linkedin.com/company/etwin-tech">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/etwin_tech">
@@ -273,17 +224,11 @@ We're always open to exciting partnerships and innovative projects!
   ### **💫 Innovating Today for Tomorrow's Digital Landscape**
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=etwin-technology&color=7C3AED&style=flat-square&label=2025+Views" alt="Profile views"/>
-    <img src="https://img.shields.io/github/last-commit/etwin-technology/.github?color=0EA5E9&style=flat-square&label=Last+Commit" alt="Last commit"/>
-    <img src="https://img.shields.io/github/license/etwin-technology/.github?color=10B981&style=flat-square&label=License" alt="License"/>
-    <img src="https://img.shields.io/github/repo-size/etwin-technology/.github?color=8B5CF6&style=flat-square&label=Repo+Size" alt="Repo Size"/>
+    <img src="https://komarev.com/ghpvc/?username=etwin-technology&color=7C3AED&style=flat-square" alt="Profile views"/>
+    <img src="https://img.shields.io/github/last-commit/etwin-technology/.github?color=0EA5E9&style=flat-square" alt="Last commit"/>
+    <img src="https://img.shields.io/github/license/etwin-technology/.github?color=10B981&style=flat-square" alt="License"/>
   </p>
   
   **© 2025 eTwin Technology | Digital Innovation Hub | All Rights Reserved**
   
-  <sub>Last Updated: January 2025 | Version 2.0 | 🚀 Building the Future</sub>
-  
 </div>
-```
-
-

@@ -1,29 +1,42 @@
 <h1 align="center">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="28"/> eTwin Technology
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Inter
+    &size=32
+    &duration=2800
+    &pause=900
+    &color=7C3AED
+    &center=true
+    &vCenter=true
+    &width=520
+    &lines=eTwin+Technology;Modern+Web+Solutions;Build.+Scale.+Innovate."
+  />
 </h1>
 
 <p align="center">
-  <strong>Building modern web solutions that turn ideas into reality</strong>
+  <img src="https://img.shields.io/badge/Location-Morocco-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web-Development-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open-Source-7C3AED?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="16"/> Morocco &nbsp; • &nbsp;
-  <img src="https://cdn.simpleicons.org/internetexplorer/0A66C2" width="16"/> Web & Software Development &nbsp; • &nbsp;
-  <img src="https://cdn.simpleicons.org/opensourceinitiative/3DA639" width="16"/> Open Source
+  <img src="https://capsule-render.vercel.app/api?
+    type=waving
+    color=7C3AED
+    height=120
+    section=header
+    animation=fadeIn
+  "/>
 </p>
 
 ---
 
 ## 👋 About Us
 
-<img src="https://cdn.simpleicons.org/aboutdotme/00A98F" width="18"/>  
-**eTwin Technology** is a technology-driven organization focused on  
-**modern web development** and **custom software solutions**.
+**eTwin Technology** is a modern tech organization focused on  
+**high-quality web development** and **scalable software solutions**.
 
-We help startups, businesses, and individuals transform ideas into  
-**secure, scalable, and high-performance digital products**.
-
-🎯 **Our mission:** Deliver clean code, smart architecture, and real value.
+We turn ideas into **secure, fast, and elegant digital products**  
+using clean architecture and modern technologies.
 
 ---
 
@@ -31,54 +44,66 @@ We help startups, businesses, and individuals transform ideas into
 
 - 🌐 Website Development  
 - 🧩 Custom Web Applications  
-- 🛒 E-commerce Platforms  
-- ⚙️ Backend Systems & APIs  
+- 🛒 E-commerce Solutions  
+- ⚙️ APIs & Backend Systems  
 - 🎨 UI / UX Integration  
-- 🔐 Performance & Security Optimization  
+- 🔐 Performance & Security  
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="22"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="22"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="22"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="22"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="22"/>
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="22"/>
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="22"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="22"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="22"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="22"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="22"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="22"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38"/>
 </p>
 
 ---
 
 ## 🤝 Our Values
 
-- ✅ Clean & Maintainable Code  
-- 🚀 Performance-Oriented  
-- 🔒 Security First  
-- 📈 Scalable Architecture  
+- 🚀 Performance First  
+- 🧼 Clean & Maintainable Code  
+- 🔒 Security by Design  
+- 📈 Scalable Solutions  
 - 🤝 Long-Term Partnership  
 
 ---
 
 ## 📫 Contact
 
-<p>
-  <img src="https://cdn.simpleicons.org/internetexplorer/0A66C2" width="16"/> https://etwin.tech <br>
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="16"/> contact@etwin.tech <br>
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16"/> LinkedIn — eTwin Technology <br>
-  <img src="https://cdn.simpleicons.org/github/181717" width="16"/> https://github.com/etwin-technology
+<p align="center">
+  <a href="https://etwin.tech">
+    <img src="https://img.shields.io/badge/Website-etwin.tech-7C3AED?style=for-the-badge"/>
+  </a>
+  <a href="mailto:contact@etwin.tech">
+    <img src="https://img.shields.io/badge/Email-contact@etwin.tech-7C3AED?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/etwin-technology">
+    <img src="https://img.shields.io/badge/GitHub-eTwin_Technology-7C3AED?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/creativecommons/EF9421" width="14"/>
+  <img src="https://capsule-render.vercel.app/api?
+    type=waving
+    color=5B21B6
+    height=90
+    section=footer
+  "/>
+</p>
+
+<p align="center">
   © eTwin Technology — All rights reserved
 </p>
